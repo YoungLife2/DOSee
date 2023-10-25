@@ -3,7 +3,7 @@
   "zip:path": "dos_programs/program_1/BREAKOUT.zip",
   "audio:gus": "false",
   "width:height": "640, 480",
-  "run:filename": "BKOUT.BAT",
+  "run:filename": "BREAKOUT.EXE",
   "utilities": "false",
   "speed": "386",
   "graphic": "ega",
