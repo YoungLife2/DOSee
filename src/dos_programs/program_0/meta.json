@@ -1,9 +1,9 @@
 {
   "capture:filename": "agi_demo_pack_1.png",
-  "zip:path": "dos_programs/program_0/agi_demo_pack_1.zip",
+  "zip:path": "dos_programs/program_0/PONG.zip",
   "audio:gus": "false",
   "width:height": "640, 480",
-  "run:filename": "SIERRA.COM",
+  "run:filename": " PONG21.COM",
   "utilities": "false",
   "speed": "auto",
   "graphic": "tandy",
